@@ -1,0 +1,7 @@
+{
+  "status_counts": {},
+  "pose_count": 0,
+  "event_counts": {},
+  "recovered": [],
+  "scope": "existing longdist prefix + synthetic RTK from VIO, NOT accuracy validation"
+}

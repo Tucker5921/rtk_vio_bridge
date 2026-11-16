@@ -1,0 +1,5 @@
+stdin is not a terminal device. Keyboard handling disabled.1794577917.776664 [137]       ros2: selected interface "lo" is not multicast-capable: disabling multicast
+[INFO] [1794577917.781997017] [rosbag2_storage]: Opened database '/home/tucker/rosbag2/d435i_vio_test_longdist/d435i_vio_test_20261103_192110_0.db3' for READ_ONLY.
+[INFO] [1794577917.782041039] [rosbag2_player]: Set rate to 1
+[INFO] [1794577917.786531379] [rosbag2_storage]: Opened database '/home/tucker/rosbag2/d435i_vio_test_longdist/d435i_vio_test_20261103_192110_0.db3' for READ_ONLY.
+[INFO] [1794577982.553543984] [rclcpp]: signal_handler(signum=2)

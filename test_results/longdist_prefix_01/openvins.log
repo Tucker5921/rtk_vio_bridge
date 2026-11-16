@@ -1,0 +1,10 @@
+[INFO] [launch]: All log files can be found below /home/tucker/.ros/log/2026-11-13-21-47-24-771902-tucker-123312
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [run_subscribe_msckf-1]: process started with pid [123313]
+[run_subscribe_msckf-1] 1794577644.907559 [137] run_subscr: selected interface "lo" is not multicast-capable: disabling multicast
+[run_subscribe_msckf-1] [32moverriding node [1m[32mverbosity[0m[32m with value from ROS!
+[run_subscribe_msckf-1] [0mSetting printing level to: WARNING
+[WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+[INFO] [run_subscribe_msckf-1]: sending signal 'SIGINT' to process[run_subscribe_msckf-1]
+[run_subscribe_msckf-1] [INFO] [1794577648.547287595] [rclcpp]: signal_handler(signum=2)
+[ERROR] [run_subscribe_msckf-1]: process has died [pid 123313, exit code -2, cmd '/home/tucker/openVINS_ws/install/ov_msckf/lib/ov_msckf/run_subscribe_msckf --ros-args -r __ns:=/ov_msckf --params-file /tmp/launch_params_0xr0uu8n --params-file /tmp/launch_params_kiwgss3q --params-file /tmp/launch_params_mvepmb_j --params-file /tmp/launch_params_6cxmruqp --params-file /tmp/launch_params_ukrv5h09 -r /camera/camera/imu:=/camera/camera/imu'].

@@ -1,0 +1,103 @@
+{
+  "status_counts": {
+    "UNAVAILABLE": 250,
+    "WAIT_ALIGNMENT": 10,
+    "RTK_ANCHORED": 234,
+    "VIO_CONTINUATION": 402,
+    "RECOVERING": 53
+  },
+  "pose_count": 1619,
+  "event_counts": {
+    "rtk_acquired": 1,
+    "rtk_residual": 183,
+    "rtk_recovered": 5
+  },
+  "recovered": [
+    {
+      "event": "rtk_recovered",
+      "stamp": 1793704905.1627922,
+      "epoch": 0,
+      "residual": {
+        "event": "rtk_residual",
+        "stamp": 1793704905.1627922,
+        "epoch": 0,
+        "delta_enu_m": [
+          0.40674364227060344,
+          -0.022136841738177537,
+          7.259582657237473e-10
+        ],
+        "delta_yaw_rad": -0.0005233448628652049,
+        "recovering": true
+      }
+    },
+    {
+      "event": "rtk_recovered",
+      "stamp": 1793704915.9418888,
+      "epoch": 0,
+      "residual": {
+        "event": "rtk_residual",
+        "stamp": 1793704915.9418888,
+        "epoch": 0,
+        "delta_enu_m": [
+          0.0008837234677514516,
+          -0.0022113921166777573,
+          -8.456342293072794e-10
+        ],
+        "delta_yaw_rad": -0.006026217178302706,
+        "recovering": true
+      }
+    },
+    {
+      "event": "rtk_recovered",
+      "stamp": 1793704930.95002,
+      "epoch": 0,
+      "residual": {
+        "event": "rtk_residual",
+        "stamp": 1793704930.95002,
+        "epoch": 0,
+        "delta_enu_m": [
+          -0.39999999737444725,
+          7.297096260572289e-10,
+          -7.592222406316296e-10
+        ],
+        "delta_yaw_rad": -6.661338147750939e-16,
+        "recovering": true
+      }
+    },
+    {
+      "event": "rtk_recovered",
+      "stamp": 1793704944.9611323,
+      "epoch": 0,
+      "residual": {
+        "event": "rtk_residual",
+        "stamp": 1793704944.9611323,
+        "epoch": 0,
+        "delta_enu_m": [
+          0.3999709516384655,
+          6.363346975035711e-05,
+          -8.774110327181006e-10
+        ],
+        "delta_yaw_rad": 2.2167351318325142e-05,
+        "recovering": true
+      }
+    },
+    {
+      "event": "rtk_recovered",
+      "stamp": 1793704959.671378,
+      "epoch": 0,
+      "residual": {
+        "event": "rtk_residual",
+        "stamp": 1793704959.671378,
+        "epoch": 0,
+        "delta_enu_m": [
+          -1.19655041430633e-09,
+          -4.098161809906742e-10,
+          1.3400592857593097e-09
+        ],
+        "delta_yaw_rad": -2.220446049250313e-16,
+        "recovering": true
+      }
+    }
+  ],
+  "scope": "existing longdist prefix + synthetic RTK from VIO, NOT accuracy validation"
+}

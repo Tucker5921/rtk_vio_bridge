@@ -1,0 +1,3 @@
+1794578053.568533 [137]     bridge: selected interface "lo" is not multicast-capable: disabling multicast
+[INFO] [1794578071.971524877] [rtk_vio_bridge]: {"event": "rtk_acquired", "stamp": 1793704884.813505, "epoch": 0, "residual": null}
+[INFO] [1794578092.049150765] [rtk_vio_bridge]: {"event": "rtk_recovered", "stamp": 1793704904.9528491, "epoch": 0, "residual": {"event": "rtk_residual", "stamp": 1793704904.9528491, "epoch": 0, "delta_enu_m": [0.3999999983031497, 4.890594595963194e-10, -1.1180399522858764e-09], "delta_yaw_rad": -0.003067726641650892, "recovering": true}}

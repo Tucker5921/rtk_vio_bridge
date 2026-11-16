@@ -1,0 +1,75 @@
+[INFO] [launch]: All log files can be found below /home/tucker/.ros/log/2026-11-13-21-48-55-458549-tucker-123686
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [run_subscribe_msckf-1]: process started with pid [123712]
+[run_subscribe_msckf-1] 1794577735.601248 [137] run_subscr: selected interface "lo" is not multicast-capable: disabling multicast
+[run_subscribe_msckf-1] [32moverriding node [1m[32mverbosity[0m[32m with value from ROS!
+[run_subscribe_msckf-1] [0mSetting printing level to: WARNING
+[run_subscribe_msckf-1] [33m[init]: not enough feats to compute disp: 0,0 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,0 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,174 < 15
+[run_subscribe_msckf-1] [0m[33m[init]: not enough feats to compute disp: 0,173 < 15
+[run_subscribe_msckf-1] [0m[31m[init-d]: only 90 valid features of required (142 thresh)!!
+[run_subscribe_msckf-1] [0m[31m[init-d]: only 90 valid features of required (142 thresh)!!
+[run_subscribe_msckf-1] [0m[31m[init-d]: only 86 valid features of required (142 thresh)!!
+[run_subscribe_msckf-1] [0m[31m[init-d]: only 86 valid features of required (142 thresh)!!
+[run_subscribe_msckf-1] [0m[31m[init-d]: only 84 valid features of required (142 thresh)!!
+[run_subscribe_msckf-1] [0m[31m[init-d]: only 84 valid features of required (142 thresh)!!
+[run_subscribe_msckf-1] [0m[31m[init-d]: only 84 valid features of required (142 thresh)!!
+[run_subscribe_msckf-1] [0m[31m[init-d]: only 84 valid features of required (142 thresh)!!
+[run_subscribe_msckf-1] [0m[31m[init-d]: only 84 valid features of required (142 thresh)!!
+[run_subscribe_msckf-1] [0m[31m[init-d]: only 84 valid features of required (142 thresh)!!
+[run_subscribe_msckf-1] [0m[31m[init-d]: only 84 valid features of required (142 thresh)!!
+[WARNING] [launch]: user interrupted with ctrl-c (SIGINT)
+[INFO] [run_subscribe_msckf-1]: sending signal 'SIGINT' to process[run_subscribe_msckf-1]
+[run_subscribe_msckf-1] [INFO] [1794577751.761731259] [rclcpp]: signal_handler(signum=2)
+[ERROR] [run_subscribe_msckf-1]: process has died [pid 123712, exit code -2, cmd '/home/tucker/openVINS_ws/install/ov_msckf/lib/ov_msckf/run_subscribe_msckf --ros-args -r __ns:=/ov_msckf --params-file /tmp/launch_params_jbza082k --params-file /tmp/launch_params_tvggoste --params-file /tmp/launch_params_vy11ywjo --params-file /tmp/launch_params_bnpe4gco --params-file /tmp/launch_params_9wky4kzl -r /camera/camera/imu:=/camera/camera/imu'].
+[run_subscribe_msckf-1] [0m[31m[init-d]: only 84 valid features of required (142 

@@ -1,0 +1,2 @@
+1794577776.768187 [137] synthetic_: selected interface "lo" is not multicast-capable: disabling multicast
+[WARN] [1794577776.823080667] [synthetic_rtk]: SYNTHETIC RTK from VIO, NOT independent ground truth. Identity extrinsics only.

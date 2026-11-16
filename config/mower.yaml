@@ -1,0 +1,24 @@
+rtk_vio_bridge:
+  ros__parameters:
+    use_sim_time: true
+    # Must be surveyed/chosen explicitly. Never auto-reset origin on reacquisition.
+    origin_configured: false
+    origin_lat: 0.0
+    origin_lon: 0.0
+    origin_alt: 0.0
+    # Calibration required; identity/zero below are placeholders, NOT mower calibration.
+    extrinsics_configured: false
+    imu_from_body_xyzw: [0.0, 0.0, 0.0, 1.0]
+    imu_to_body_in_imu_m: [0.0, 0.0, 0.0]
+    antenna_in_body_m: [0.0, 0.0, 0.0]
+    manual_alignment_enabled: false
+    field_from_vio_yaw_deg: 0.0
+    rtk_timeout: 1.0
+    quality_timeout: 1.5
+    heading_timeout: 0.3
+    vio_timeout: 0.5
+    sync_gap: 0.1
+    recover_count: 5
+    recover_seconds: 1.0
+    max_recovery_m: 2.0
+    max_recovery_yaw_deg: 20.0

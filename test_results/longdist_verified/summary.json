@@ -1,0 +1,35 @@
+{
+  "status_counts": {
+    "UNAVAILABLE": 136,
+    "WAIT_ALIGNMENT": 10,
+    "RTK_ANCHORED": 250,
+    "VIO_CONTINUATION": 91,
+    "RECOVERING": 11
+  },
+  "pose_count": 7035,
+  "event_counts": {
+    "rtk_acquired": 1,
+    "rtk_residual": 249,
+    "rtk_recovered": 1
+  },
+  "recovered": [
+    {
+      "event": "rtk_recovered",
+      "stamp": 1793704904.9528491,
+      "epoch": 0,
+      "residual": {
+        "event": "rtk_residual",
+        "stamp": 1793704904.9528491,
+        "epoch": 0,
+        "delta_enu_m": [
+          0.3999999983031497,
+          4.890594595963194e-10,
+          -1.1180399522858764e-09
+        ],
+        "delta_yaw_rad": -0.003067726641650892,
+        "recovering": true
+      }
+    }
+  ],
+  "scope": "existing longdist prefix + synthetic RTK from VIO, NOT accuracy validation"
+}
